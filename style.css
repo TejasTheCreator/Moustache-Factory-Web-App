@@ -1,0 +1,47 @@
+#header
+{
+    background-color: black;
+    color: white;
+    font-size: 29px;
+    font-family: 'Sansita Swashed', cursive;
+}
+
+#button_take_snapshot
+{
+    background-color: #383200;
+    color: white;
+    border-radius: 25px;
+    font-size: 27px;
+    font-family: 'Sansita Swashed', cursive;
+}
+
+canvas
+{
+    border-radius: 25px;
+    border: 10px solid #f6ffcf;
+    box-shadow: 10px 10px 10px #575757;
+}
+
+#important_note
+{
+    background-color: #ff2600;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-size: 27px; 
+}
+
+.copy_right_footer
+{
+    font-family: 'Acme', sans-serif;
+    color: yellow;
+    background-color: #171fff;
+    font-size: 23px;
+}
+
+#highlight_channel_name
+{
+color: lime;
+background-color: blue;
+font-size: 23px;
+border-radius: 25px;
+}
